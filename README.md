@@ -5,7 +5,7 @@ Funcao para calculo do desvio padrao em oracle (PLSQL).
 # 1 
 Crie o TYPE LISTA
 # 2 
-Crie a funcção SPLIT
+Crie a função SPLIT
 # 3 
 Crie a funcção de Desvio Padrão
 # 4 
